@@ -1,0 +1,276 @@
+Premium Support
+ <http://help.coursera.org/customer/widget/emails/new>
+This page features MathJax technology to render mathematical formulae.
+If you are using a screen reader, please visit MathPlayer
+<http://www.dessci.com/en/products/mathplayer/> to download the plugin
+for your browser. Please note that this is an Internet Explorer-only
+plugin at this time.
+
+
+  Getting and Cleaning Data
+
+<https://www.coursera.org/>
+
+
+    Top Navigation Bar
+
+  * Courses <https://www.coursera.org/courses>
+  * Robert M. Zegarac//
+
+About Us <https://www.coursera.org//about/>Careers
+<https://www.coursera.org//about/careers>People
+<https://www.coursera.org//about/people>Contact Us
+<https://www.coursera.org//about/contact>
+My Courses <https://www.coursera.org/>Profile
+<https://www.coursera.org/account/profile>Course Records
+<https://www.coursera.org/account/records>Settings
+<https://www.coursera.org/account/settings>Course Preferences
+</getdata-007/class/preferences>Sign Out </getdata-007/auth/logout>
+jhu <https://www.coursera.org/jhu>
+
+
+  Getting and Cleaning Data </getdata-007/>
+  by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD
+
+Course Home Page </getdata-007>
+Search this course Search
+
+
+    Side Navigation Bar
+
+  * Feedback </getdata-007/questions>
+    Please help us improve this course by answering some quick questions!
+  *
+  *
+  *
+
+
+          Course
+
+  * Announcements </getdata-007/class/index>
+  * Video Lectures </getdata-007/lecture/index>
+  *
+
+
+          Exercises
+
+  * Quizzes </getdata-007/quiz/index>
+  * swirl Programming Assignment </getdata-007/assignment/index>
+  * Course Project </getdata-007/human_grading/index>
+  *
+  *
+
+
+          About the course
+
+  * Syllabus </getdata-007/wiki/syllabus>
+  * About the instructor </getdata-007/wiki/About_the_Instructor>
+  *
+  *
+
+
+          Community
+
+  * Discussion Forums </getdata-007/forum/index>
+  * DSS Community Site opens in new browser tab
+    <http://datasciencespecialization.github.io/>
+  * Course Wikiopens in new browser tab
+    <https://share.coursera.org/wiki/index.php/getdata-007:Main>
+  * Join a Meetupopens in new browser tab <http://www.meetup.com/Coursera/>
+
+  * //Help Articles <http://help.coursera.org>
+
+  * //Course Materials Errors
+    </getdata-007/forum/list?forum_id=10000&url=https%3A%2F%2Fclass.coursera.org%2Fgetdata-007%2Fhuman_grading%2Fview%2Fcourses%2F972585%2Fassessments%2F3>
+  * //Technical Issues
+    </getdata-007/forum/list?forum_id=10001&url=https%3A%2F%2Fclass.coursera.org%2Fgetdata-007%2Fhuman_grading%2Fview%2Fcourses%2F972585%2Fassessments%2F3>
+
+Learn more <https://class.coursera.org/mooc/help/peer>
+
+  * Peer Assessments <https://class.coursera.org/getdata-007/human_grading/>
+  * /Getting and Cleaning Data Course Project
+    Help
+    <https://class.coursera.org/getdata-007/help/peergrading?url=https%3A%2F%2Fclass.coursera.org%2Fgetdata-007%2Fhuman_grading%2Fview%2Fcourses%2F972585%2Fassessments%2F3%2Fsubmissions>
+
+
+  *
+    opened Thu 19 Jun 2014 5:01 AM PDTopened 3mon 1w ago
+    due Sun 21 Sep 2014 4:30 PM PDTdue in 15hr 45m
+    Reload <#> to open
+    Submission Phase
+      o 1.Do
+        assignment</getdata-007/human_grading/view/courses/972585/assessments/3/submissions>
+  *
+    open Sun 21 Sep 2014 5:30 PM PDTopen in 16hr 45m
+    due Sun 28 Sep 2014 4:30 PM PDTdue in 1wk 2d
+    Reload <#> to open
+    Evaluation Phase
+      o 2.Evaluate
+        peers</getdata-007/human_grading/view/courses/972585/assessments/3/peerGradingSets>
+  *
+    available Sun 28 Sep 2014 5:30 PM PDTin 1wk 2d
+    Reload <#> to open
+    Results Phase
+      o 3.See
+        results</getdata-007/human_grading/view/courses/972585/assessments/3/results/mine>
+
+x <#>
+
+Your draft was saved but */not/* yet submitted. Review your work
+<https://class.coursera.org/getdata-007/human_grading/view/courses/972585/assessments/3/submissions/721>
+to make sure everything looks OK.
+
+x <#>
+
+Your draft was saved but */not/* yet submitted. Review your work
+<https://class.coursera.org/getdata-007/human_grading/view/courses/972585/assessments/3/submissions/721>
+to make sure everything looks OK.
+
+ In accordance with the Honor Code, I certify that my answers here are
+my own work, and that I have appropriately acknowledged all external
+sources (if any) that were used in this work.
+
+Save draft <#>Submit for grading <#>
+The purpose of this project is to demonstrate your ability to collect,
+work with, and clean a data set. The goal is to prepare tidy data that
+can be used for later analysis. You will be graded by your peers on a
+series of yes/no questions related to the project. You will be required
+to submit: 1) a tidy data set as described below, 2) a link to a Github
+repository with your script for performing the analysis, and 3) a code
+book that describes the variables, the data, and any transformations or
+work that you performed to clean up the data called CodeBook.md. You
+should also include a README.md in the repo with your scripts. This repo
+explains how all of the scripts work and how they are connected. 
+
+One of the most exciting areas in all of data science right now is
+wearable computing - see for example this article
+<http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/>.
+Companies like Fitbit, Nike, and Jawbone Up are racing to develop the
+most advanced algorithms to attract new users. The data linked to from
+the course website represent data collected from the accelerometers from
+the Samsung Galaxy S smartphone. A full description is available at the
+site where the data was obtained:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+
+Here are the data for the project:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+
+ You should create one R script called run_analysis.R that does the
+following. 
+
+ 1. Merges the training and the test sets to create one data set.
+ 2. Extracts only the measurements on the mean and standard deviation
+    for each measurement. 
+ 3. Uses descriptive activity names to name the activities in the data set
+ 4. Appropriately labels the data set with descriptive variable names. 
+ 5.
+
+    From the data set in step 4, creates a second, independent tidy data
+    set with the average of each variable for each activity and each
+    subject.
+
+Good luck!
+
+Please upload the tidy data set created in step 5 of the instructions.
+Please upload your data set as a txt file created with write.table()
+using row.name=FALSE (do not cut and paste a dataset directly into the
+text box, as this may cause errors saving your submission).
+
+BILink<code>Math
+PreviewEditEdit: Rich
+<HTML>Rich
+URL   
+CreateCancel <javascript:;>
+
+LaTeX:
+Preview:
+CreateCancel <javascript:;>
+
+Attach a file (supports: txt, png, jpg, gif, pdf)
+
+
+      Evaluation/feedback on the above work
+
+*Note*: this section can only be filled out during the evaluation phase.
+Has the student submitted a tidy data set? 
+Please submit a link to a Github repo with the code for performing your
+analysis. The code should have a file run_analysis.R in the main
+directory that can be run as long as the Samsung data is in your working
+directory. The output should be the tidy data set you submitted for part
+1. You should include a README.md in the repo describing how the script
+works and the code book describing the variables.
+BILink<code>Math
+PreviewEditEdit: Rich
+<HTML>Rich
+URL   
+CreateCancel <javascript:;>
+
+LaTeX:
+Preview:
+CreateCancel <javascript:;>
+
+
+      Evaluation/feedback on the above work
+
+*Note*: this section can only be filled out during the evaluation phase.
+Did the student submit a Github repo with the required scripts?
+
+Was code book submitted to GitHub that modifies and updates the
+codebooks available to you with the data to indicate all the variables
+and summaries you calculated, along with units, and any other relevant
+information?
+
+I was able to follow the README in the directory that explained what the
+analysis files did. 
+
+
+      Overall evaluation/feedback
+
+*Note*: this section can only be filled out during the evaluation phase.
+As far as you can determine, does it appear that the work submitted for
+this project is the work of the student who submitted it? 
+Please use the space below to provide constructive feedback to the
+student who submitted the work. Point out the submission's strengths as
+well as areas in need of improvement. You may also use this space to
+explain your grading decisions.
+You've written 0 words
+
+ In accordance with the Honor Code, I certify that my answers here are
+my own work, and that I have appropriately acknowledged all external
+sources (if any) that were used in this work.
+
+Save draft <#>Submit for grading <#>
+×
+
+Signature Track
+
+Signature Track Profile incomplete
+
+//Oops! You have submitted your work, but you can't authenticate your
+coursework yet. You still need to complete your Signature Track profile
+by registering your unique typing patterns and submitting webcam photos.
+You need to authenticate most of your assignments to get a Verified
+Certificate.
+
+Please complete your profile as soon as possible.
+
+
+        You will need:
+
+Illustration of keyboard and camera
+Keyboard and Webcam
+Illustration of identification card
+Goverment-issued Photo ID
+Complete my profile now
+<https://dw0ugk4msqulk.cloudfront.net/87fd602074cc4b6e5f1f0001b1d57766a1329ee6/../../signature/phrase/getdata/972585>
+No thanks, I'll do this later. »
+
+
+      Confirm Navigation
+
+Are you sure you want to leave this page?
+Stay on this PageLeave this Page
