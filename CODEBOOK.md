@@ -45,12 +45,9 @@ The following files are available for the train and test data. Their description
 
 - "train/subject_train.txt": Each row identifies the subject (1-30) who performed the activity for which data was captured
 
-- "train/Inertial Signals/*.txt": Inertial signals captured for each 
-- "train/Inertial Signals/body_acc_x_train.txt": The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
+- "train/Inertial Signals/*.txt": Inertial signals captured for each subject. 
 
-- "train/Inertial Signals/body_gyro_x_train.txt": The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
-
-####NOTE: The Inertial Signals data is not used in this project and is not included in the resulting "tidy" dataset. 
+######NOTE: The Inertial Signals data is not used in this project and is not included in the resulting "tidy" dataset. 
 
 ### Tidy Dataset Details
 
