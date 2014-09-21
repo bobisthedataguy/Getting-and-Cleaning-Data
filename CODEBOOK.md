@@ -55,7 +55,7 @@ The following files are available for the train and test data. Their description
 ### Tidy Dataset Details
 
 <hr>
-<A NAME="table1"><h1>Johns Hopkins/Coursera – Getting and Cleaning Data Course Project - Data Dictionary</h1></A>
+<A NAME="table1"><h3>Johns Hopkins/Coursera – Getting and Cleaning Data Course Project - Data Dictionary</h3></A>
 <table cellspacing="0" border="0">
 	<colgroup width="85"></colgroup>
 	<colgroup width="354"></colgroup>
