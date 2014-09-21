@@ -17,42 +17,44 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ### Description
 
-The source data originates from experiments that were carried out with a group of 30 volunteers within an age bracket of 19-48 years. The subjects in the original experiments performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on their waist. 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz data points were collected. This was done using the accelerometer and gyroscope embedded in the smartphone. The collected data was randomly partitioned into two sets by the original researchers. 70% of the subjects were selected for inclusion in the training data set and 30% for inclusion in the the test data set. 
+The source data originates from experiments that were carried out with a group of 30 volunteers within an age bracket of 19-48 years. The subjects in the original experiments performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on their waist. 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz data points were collected. This was done using the accelerometer and gyroscope embedded in the smartphone. The collected data was randomly partitioned into two sets by the original researchers. 70% of the subjects were selected for inclusion in the training data set and 30% for inclusion in the the test data set. Additional details can be found in the "README.txt" contained in the source dataset. 
 
-The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
-
-
+Detailed information on the measures contained in the source dataset can be found in the "features_info.txt" file. 
 
 ### Source Dataset Details
 
 The following files are included in the source data (zip) file:
 
-- 'README.txt'
+- "README.txt"
 
-- 'features_info.txt': detailed information on the features (measures) presented in the source data set
+- "features_info.txt": detailed information on the features (measures) presented in the source data set
 
-- 'features.txt': List of all features (measures) contained in the test and train data sets
+- "features.txt": List of all features (measures) contained in the test and train data sets
 
-- 'activity_labels.txt': contains activity names associated with each activity code 
+- "activity_labels.txt": contains activity names associated with each activity code 
 
-- 'train/X_train.txt': Training data set - contains the data collected for each feature
+- "train/X_train.txt": Training data set - contains the data collected for each feature
 
-- 'train/y_train.txt': Training labels - contains activity codes associated with each row in the training data set
+- "train/y_train.txt": Training labels - contains activity codes associated with each row in the training data set
 
-- 'test/X_test.txt': Testing data set  - contains the data collected for each feature
+- "test/X_test.txt": Testing data set  - contains the data collected for each feature
 
-- 'test/y_test.txt': Test labels - contains activity codes associated with each row in the training data set
+- "test/y_test.txt": Test labels - contains activity codes associated with each row in the training data set
 
 The following files are available for the train and test data. Their descriptions are equivalent
 
-- 'train/subject_train.txt': Each row identifies the subject (1-30) who performed the activity for which data was captured
+- "train/subject_train.txt": Each row identifies the subject (1-30) who performed the activity for which data was captured
 
-- 'train/Inertial Signals/*.txt': Inertial signals captured for each 
-- 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
+- "train/Inertial Signals/*.txt": Inertial signals captured for each 
+- "train/Inertial Signals/body_acc_x_train.txt": The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
 
-- 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+- "train/Inertial Signals/body_gyro_x_train.txt": The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+
+NOTE: The Inertial Signals data is not used in this project and is not included in the resulting "tidy" dataset. 
 
 ### Tidy Dataset Details
+
+Below is the data dictionary for the resulting "tidy" dataset. This file is created by the "run_analysis.R" script.
 
 <hr>
 <A NAME="table1"><h3>Johns Hopkins/Coursera – Getting and Cleaning Data Course Project - Data Dictionary</h3></A>
@@ -644,9 +646,6 @@ The following files are available for the train and test data. Their description
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top>No</td>
 	</tr>
 </table>
-
-
-
 
 
 ### References
