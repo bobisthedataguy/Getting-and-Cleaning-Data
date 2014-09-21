@@ -5,9 +5,7 @@
 This reponsitory contains deliverables submitted in fullfillment of the Johns Hopkins "Getting and Cleaning Data" course project requirement. This course was presented via Coursera. The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare a "tidy" data that can be used for further analysis. Project requirements are included in the "project_requirements.txt" file contained within this repo. The following is required for submission:
 
 1. a tidy data set
-
 2. a link to this Github repository containing the script
-
 3. a code book 
 
 Smart phone data collected from subjects while performing six activites was collected through a prior independant study<sup>1</sup>. This data has been made available for use educational purposes. More details on this data can be found in the Codebook. The script in this repo reformats this data in order to make it more usable for later analysis.
