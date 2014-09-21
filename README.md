@@ -10,7 +10,7 @@ This reponsitory contains deliverables submitted in fullfillment of the Johns Ho
 
 3) a code book 
 
-Smart phone data collected from subjects while performing six activites was collected through a prior independant study^1. This data has been made available for use educational purposes. More details on this data can be found in the Codebook. The script in this repo reformats this data in order to make it more usable for later analysis.
+Smart phone data collected from subjects while performing six activites was collected through a prior independant study<sup>1</sup>. This data has been made available for use educational purposes. More details on this data can be found in the Codebook. The script in this repo reformats this data in order to make it more usable for later analysis.
 
 ### How does it work?
 
