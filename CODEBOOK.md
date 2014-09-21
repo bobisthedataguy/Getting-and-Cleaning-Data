@@ -7,9 +7,13 @@ This is the Codebook submitted in fullfillment of the Johns Hopkins "Getting and
 
 ### Data Source
 
-Source of the Data processed: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+A link to the source dataset processed: 
 
-Original data description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Original data description: 
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ### Description
 
@@ -23,30 +27,30 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 The following files are included in the source data (zip) file:
 
-	- 'README.txt'
+- 'README.txt'
 
-	- 'features_info.txt': detailed information on the features (measures) presented in the source data set
+- 'features_info.txt': detailed information on the features (measures) presented in the source data set
 
-	- 'features.txt': List of all features (measures) contained in the test and train data sets
+- 'features.txt': List of all features (measures) contained in the test and train data sets
 
-	- 'activity_labels.txt': contains activity names associated with each activity code 
+- 'activity_labels.txt': contains activity names associated with each activity code 
 
-	- 'train/X_train.txt': Training data set - contains the data collected for each feature
+- 'train/X_train.txt': Training data set - contains the data collected for each feature
 
-	- 'train/y_train.txt': Training labels - contains activity codes associated with each row in the training data set
+- 'train/y_train.txt': Training labels - contains activity codes associated with each row in the training data set
 
-	- 'test/X_test.txt': Testing data set  - contains the data collected for each feature
+- 'test/X_test.txt': Testing data set  - contains the data collected for each feature
 
-	- 'test/y_test.txt': Test labels - contains activity codes associated with each row in the training data set
+- 'test/y_test.txt': Test labels - contains activity codes associated with each row in the training data set
 
 The following files are available for the train and test data. Their descriptions are equivalent
 
-	- 'train/subject_train.txt': Each row identifies the subject (1-30) who performed the activity for which data was captured
+- 'train/subject_train.txt': Each row identifies the subject (1-30) who performed the activity for which data was captured
 
-	- 'train/Inertial Signals/*.txt': Inertial signals captured for each 
-	- 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
+- 'train/Inertial Signals/*.txt': Inertial signals captured for each 
+- 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
 
-	- 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+- 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
 ### Tidy Dataset Details
 
