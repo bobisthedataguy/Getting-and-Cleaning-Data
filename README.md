@@ -16,14 +16,14 @@ The script "run_analysis.R" contained within this repo is used to create the 'ti
 
 The resulting 'tidy' dataset can be found in the 'tidy_data.txt' file. The link is below:
 
-	https://github.com/bobisthedataguy/Getting-and-Cleaning-Data/blob/master/tidy_data.txt
+https://github.com/bobisthedataguy/Getting-and-Cleaning-Data/blob/master/tidy_data.txt
 
 
 ### Codebook
 
 The Codebook is available in the CODEBOOK.md file contained within this Repo. The link is below:
 
-	https://github.com/bobisthedataguy/Getting-and-Cleaning-Data/blob/master/CODEBOOK.md
+https://github.com/bobisthedataguy/Getting-and-Cleaning-Data/blob/master/CODEBOOK.md
 
 
 ### References
